@@ -1,0 +1,12 @@
+body {
+    font-family: 'Playfair Display';
+}
+
+h2, h1 {
+    font-family: 'Playfair Display';
+}
+
+h1 {
+    background-color: rgb(68, 68, 240);
+    color:bisque;
+}
